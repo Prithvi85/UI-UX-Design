@@ -1,0 +1,29 @@
+Hi Prithwish,
+
+As discussed in the meeting, sharing the assignment with you. Please read out the paragraph and come up with design solution for the given problem
+
+First Task :- 
+
+Aapkapainter wanted to develop a painter allotment application for the respective managers. (Later this may be automated) Manager wants to see the currently available painters, and painters are in the completion of ongoing projects and available from tomorrow, their skills set (interior painting, textures, wallpapers etc..,) and their geographical area also experience of working.
+
+Managers see the number of projects scheduled to start tomorrow and he should be able to allot painters against the project. Some projects may need 2 painters some may need 3 or more based on project size.
+
+1) Create a mobile application screen to see the number of projects and its details (example 2 bhk, interior painting, cost 46000/- painters needed 4, project completion in 3 days. address of the project site etc...etc..)
+
+2)  A screen to see the available painters and skill set ( should be able to filter to see the todays, and tomorrow's availability.
+
+3) Map the project to particular painters. (show if multiple screens are required for this.) 
+
+Second Task :- 
+Pick any one theme from below and make an instagram post For aapkapainter 
+
+             *Let's cheer up your walls
+              *It's time to upgrade your home!
+
+Please create these screens and share in pdf or jpg or figma or xd link and submit by 22th Nov without fail.
+
+In case any questions regarding assignment, Please connect to Biju or Chanda
+We will revert back.
+
+Thanks
+Biju
